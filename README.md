@@ -28,9 +28,10 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Blog API | REST API for blog posts with Django | [GitHub](https://github.com/saeed/blog-api) |
-| Portfolio | My personal website | [GitHub](https://github.com/saeed/portfolio) |
-| E-commerce API | Backend for online shop | [GitHub](https://github.com/saeed/ecommerce-api) |
+| Django FBV/Template view coding | REST API & blog pages using Function-Based Views & Template Views in Django | [GitHub](https://github.com/SaeedBeheshti/Django-website-with-blog-pages) |
+| Django CBV coding with RESTful API | Blog and accounting website using Class-Based Views & Django REST Framework | [GitHub](https://github.com/SaeedBeheshti/Django-CBV-API-blog-accounting-website) |
+| Password Generator | Python project to generate secure passwords | [GitHub](https://github.com/SaeedBeheshti/Password-generator) |
+| Pure Python OOP coding for making online class backend | Object-Oriented Python backend for an online class system | [GitHub](https://github.com/SaeedBeheshti/OOP-Coding) |
 
 ---
 
