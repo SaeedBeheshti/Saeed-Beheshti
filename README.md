@@ -33,10 +33,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed&layout=compact&theme=radical)
+### 🐍 Top Skills
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-85%25-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
