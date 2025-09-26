@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Saeed</h1>
-<h3 align="center">Backend Developer | Django Enthusiast | Python Lover</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#FF5733;">Saeed Beheshti</span></h1>
+<h3 align="center">💻 Backend Developer | 🐍 Django Enthusiast | Python Lover</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently   working on Django backend projects
-- 🌱 I’m learning   advanced Django REST, Docker, and every interesting things about develpment:)
-- 👯 I’m open to   collaborate on backend and API projects
-- 💬 Ask me about   Python, Django, REST APIs,Git,Docker,HTML&CSS
-- 📫 How to reach me: saeedbeheshti83@gmail.com
-- ⚡ Fun fact:   I love solving programming puzzles
+- 🔭 **Currently Working:** Django backend projects & REST APIs
+- 🌱 **Learning:** Advanced Django REST, Docker & all things development 😎
+- 👯 **Open to Collaborate:** Backend projects, APIs & Open Source
+- 💬 **Ask Me About:** Python, Django, REST APIs, Git, Docker, HTML & CSS
+- 📫 **Contact Me:** <a href="mailto:saeedbeheshti83@gmail.com">saeedbeheshti83@gmail.com</a>
+- ⚡ **Fun Fact:** I love solving challenging programming puzzles 🧩
+
 
 ---
 
