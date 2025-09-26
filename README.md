@@ -41,6 +41,7 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saeed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saeed)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Saeed-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Saeed)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saeed%20Beheshti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-beheshti-073869287/)
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-saeed%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeed@example.com)
