@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Django backend projects
-- 🌱 I’m learning advanced Django REST, Docker, and CI/CD
+- 🌱 I’m learning advanced Django REST, Docker, and every interesting things about develpment:)
 - 👯 I’m open to collaborate on backend and API projects
-- 💬 Ask me about Python, Django, REST APIs, and Git
-- 📫 How to reach me: saeed@example.com
+- 💬 Ask me about Python, Django, REST APIs,Git,Docker,HTML&CSS
+- 📫 How to reach me: saeedbeheshti83@gmail.com
 - ⚡ Fun fact: I love solving programming puzzles
 
 ---
