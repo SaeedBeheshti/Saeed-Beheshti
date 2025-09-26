@@ -40,6 +40,7 @@
 ![Django](https://img.shields.io/badge/Django-85%25-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
+![Coding GIF](https://your-link-to-gif.gif)
 
 ## 📫 Connect with me
 
